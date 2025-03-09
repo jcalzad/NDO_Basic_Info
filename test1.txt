@@ -1,0 +1,5 @@
+This file is to test the git diff command.
+I will first create a file, then make some changes.
+Then I will create another slightly different.
+
+Adding an extra line.
